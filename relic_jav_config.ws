@@ -52,7 +52,7 @@ param=13=.relic.com
 param=14=0
 param=15=0
 param=16=false
-param=17=http://thepopple.github.io/jav_configs/relic_world_list.ws
+param=17=https://thepopple.github.io/jav_configs/relic_world_list.ws
 param=18=
 param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com
 param=2=https://payments.jagex.com/
