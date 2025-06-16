@@ -1,6 +1,6 @@
 title=Relic
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=http://154.53.32.156/
+codebase=http://144.76.183.220/
 cachedir=relicrsps
 storebase=0
 initial_jar=gamepack_5405138.jar
