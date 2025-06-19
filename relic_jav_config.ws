@@ -59,7 +59,7 @@ param=2=https://payments.jagex.com/
 param=20=https://social.auth.jagex.com/
 param=21=0
 param=22=https://auth.runescape.com/
-param=25=230
+param=25=231
 param=28=https://account.jagex.com/
 param=3=true
 param=4=1
