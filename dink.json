@@ -23,7 +23,7 @@
     "collectionWebhook": "https://discord.com/api/webhooks/1466893077271678997/Oe9h86ny_9yTLRqgp9eMWlFa2EI_URbRiL-LVnET2pSHNeBo3hugYGZDoi9LFIQSybea",
     "lootEnabled": true,
     "nameFilterMode": "DENY",
-    "lootRarityThreshold": 0,
+    "lootRarityThreshold": 128,
     "maxRetries": 3,
     "embedFooterText": "Your mother",
     "speedrunPBOnly": true,
